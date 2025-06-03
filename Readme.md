@@ -2,14 +2,14 @@
 
 Ce projet universitaire de Master 2 MIAGE (parcours MIAGE MIXTES) est divisé en deux parties sous forme de notebooks :
 
-- **Notebook 1 - Préparation des données & création du modèle IA**  
-- **Notebook 2 - Détection de points fantômes via IA et via règles métier**
+- **DataPrep_and_Model.ipynb - Préparation des données & création du modèle IA**  
+- **Detection_Method.ipynb - Détection de points fantômes via IA et via règles**
 
 ## 🧠 Objectif
 
 L'objectif est de détecter les **points fantômes** dans un jeu de données en comparant deux approches :  
-- Une **approche basée sur un modèle d'intelligence artificielle (IA)**  
-- Une **approche basée sur un ensemble de règles expertes définies manuellement**
+- Une **approche basée sur un modèle d'intelligence artificielle (AutoEncodeur)**  
+- Une **approche basée sur un ensemble de règles définies manuellement**
 
 ## 📁 Structure du projet
 
