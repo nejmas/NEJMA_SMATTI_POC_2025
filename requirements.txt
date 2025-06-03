@@ -1,0 +1,8 @@
+tensorflow-datasets
+tensorflow[and-cuda]
+opencv-python
+numpy
+open3d
+scikit-image
+psutil
+memory-profiler
